@@ -1,5 +1,4 @@
-# appcoronaAplicativo para respostas de dados relacionados ao avanço do vírus Corona no mundo.
-
+# appcorona
 Objetivo
 
 Democratizar e tornar acessíveis os dados sobre uma pandemia de Corona Vírus.
