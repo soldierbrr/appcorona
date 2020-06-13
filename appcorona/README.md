@@ -11,8 +11,7 @@ O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento 
 
 
 
-gabriel phillipe bprges silva/gabrielpk99999@gmail.
-autor:
+autor:gabriel phillipe borges silva
 **Tecnologias**
 
 
