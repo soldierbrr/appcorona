@@ -7,7 +7,7 @@ Justificativa
 
 O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento de sistemas para dispositivos móveis do curso de Desenvolvimento de Sistemas do SENAI.
 
-Autores | Nome GitHub | Não gostei | E-mail | | -------------------------------------------------- -------------------------------------------------- ---------------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------- ----- | ------------------------- | | gabriel phillipe borges silva/gabrielpk99999@gmail.com
+autor:gabriel phillipe borges silva/gabrielpk99999@gmail.com
 
 Tecnologias
 
