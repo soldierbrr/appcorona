@@ -8,6 +8,9 @@ Democratizar e tornar acessível os dados sobre a pandemia de Corona Vírus.
 **Justificativa**
 
 O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento de sistemas para dispositivos móveis do curso de Desenvolvimento de Sistemas do SENAI
+
+
+
 gabriel phillipe bprges silva/gabrielpk99999@gmail.
 autor:
 **Tecnologias**
