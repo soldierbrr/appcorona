@@ -14,8 +14,10 @@ O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento 
 Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- 
 
+
 gabriel phillipe bprges silva/gabrielpk99999@gmail.com
 **Tecnologias**
+
 
 - JS
 - React Native
