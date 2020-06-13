@@ -12,10 +12,9 @@ O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento 
 **Autores**
 | 
 Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- 
 
-
+gabriel phillipe bprges silva/gabrielpk99999@gmail.com
 **Tecnologias**
 
 - JS
