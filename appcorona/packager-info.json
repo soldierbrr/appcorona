@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 6534,
+  "expoServerNgrokUrl": "https://f3-cgt.anonymous.appcorona.exp.direct",
+  "packagerNgrokUrl": "https://packager.f3-cgt.anonymous.appcorona.exp.direct",
+  "ngrokPid": 6562,
+  "webpackServerPort": null
+}
